@@ -1,5 +1,9 @@
-/.vscode
-/node_modules
-/vendor
-/.phpunit.result.cache
-/package-lock.json
+.vscode/
+
+node_modules/
+package-lock.json
+
+vendor/
+composer.lock
+
+wpcs
